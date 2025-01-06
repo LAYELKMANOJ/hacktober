@@ -1,2 +1,3 @@
 THIS IS MY FIRST GITHUB REPOSITORY
-hai
+ i am studing to do github
+ i wish to 
